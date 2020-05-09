@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://www.manosp.com/mandfx/dev/miui_RedmiK20_20.5.8_10.0_VIP%40CAADBBFDDD.zip
+  ROM_URL: http://www.manosp.com/mandfx/more/MI-Max3/miui_MIMAX3_20.2.27_10.0_200227.zip
   ROM_NAME: MIUI for Android 10
   TZ: Asia/Shanghai
 
