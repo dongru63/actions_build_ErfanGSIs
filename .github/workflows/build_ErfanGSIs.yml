@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL:http://www.manosp.com/mandfx/dev/miui_RedmiNote7_20.4.11_10.0_VIP%405C188925F8.zip
+  ROM_URL: http://www.manosp.com/mandfx/dev/miui_RedmiNote7_20.4.11_10.0_VIP%405C188925F8.zip
   ROM_NAME: MIUI for Android 10
   TZ: Asia/Shanghai
 
