@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://static.cowtransfer.com/9e4b5d2c-aed0-4873-8f17-e4f946082521%2Ff5292976-a064-4c1c-b105-b5b41d3d5d35%2F%E5%B0%8F%E7%B1%B3%2F%E5%B0%8F%E7%B1%B3Max3%2FMIMAX3-200405.zip?onett=213c284e7e1e9eb291e00bd2c5425025&attname=MIMAX3-200405.zip
+  ROM_URL: https://static.cowtransfer.com/5c459be1-20c5-4e3c-9eed-c117947fa4e8%2Fd157c1fe-4b6f-40e2-9a76-8875bb7ca667%2FMIMAX3-200405.zip?onett=251b9bec324da43e9e9096eea7e9c93f&attname=MIMAX3-200405.zip
   ROM_NAME: MIUI for Android 10
   TZ: Asia/Shanghai
 
