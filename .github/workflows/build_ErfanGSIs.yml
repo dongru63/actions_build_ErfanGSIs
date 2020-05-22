@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://static.cowtransfer.com/5c459be1-20c5-4e3c-9eed-c117947fa4e8%2Fd157c1fe-4b6f-40e2-9a76-8875bb7ca667%2FMIMAX3-200405.zip?onett=7afe4cf80085a8c7bdacf29ee077ed91&attname=MIMAX3-200405.zip
+  ROM_URL: https://bigota.d.miui.com/20.5.21/miui_MIMAX3_20.5.21_9d2f801013_10.0.zip
   ROM_NAME: MIUI for Android 10
   TZ: Asia/Shanghai
 
