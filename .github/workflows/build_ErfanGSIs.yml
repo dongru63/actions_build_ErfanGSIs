@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://static.cowtransfer.com/5c459be1-20c5-4e3c-9eed-c117947fa4e8%2F288602a9-5999-4af2-8361-0b7cb1e32773%2FMIMAX3-200525.zip?onett=ca6de5ea999892106b760a9c094ece7f&attname=MIMAX3-200525.zip
-  ROM_NAME: MIUI for Android 10
+  ROM_URL: http://bigota.d.miui.com/9.9.3/miui_MIMAX3_9.9.3_e29dd67c09_9.0.zip
+  ROM_NAME: MIUI for Android 9.0
   TZ: Asia/Shanghai
 
 jobs:
