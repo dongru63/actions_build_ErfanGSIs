@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://static.cowtransfer.com/cloud-5c459be1-20c5-4e3c-9eed-c117947fa4e8%252F1596420109763%252FMIUI12-5X-Q-20.8.2.zip?t-s=1596420549633&t-c=c36d12dd-6237-4019-a1e7-042b4d16414f&attname=MIUI12-5X-Q-20.8.2.zip&attname=%E5%A5%B6%E7%89%9B%E5%BF%AB%E4%BC%A0.zip
+  ROM_URL: http://1.180.206.1/bigota.d.miui.com/V11.0.3.0.QEBCNXM/miui_MI8SE_V11.0.3.0.QEBCNXM_fd6c55042a_10.0.zip
   ROM_NAME: MIUI for Android 10
   TZ: Asia/Shanghai
 
