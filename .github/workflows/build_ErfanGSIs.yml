@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://1.180.206.1/bigota.d.miui.com/V11.0.3.0.QEBCNXM/miui_MI8SE_V11.0.3.0.QEBCNXM_fd6c55042a_10.0.zip
+  ROM_URL: https://static.cowtransfer.com/9e4b5d2c-aed0-4873-8f17-e4f946082521%2F7c0730ef-e70d-4538-814e-f5b1a575ed1e%2FHMNote7-200803.zip?t-s=1597817890596&t-c=07a74a18-278c-4096-a705-b32a328b0b48&attname=HMNote7-200803.zip
   ROM_NAME: MIUI for Android 10
   TZ: Asia/Shanghai
 
